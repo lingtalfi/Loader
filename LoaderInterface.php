@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Loader;
+namespace Ling\Loader;
 
 
 interface LoaderInterface{
