@@ -31,6 +31,10 @@ Those are loaders as described in the [loader-renderer pattern](https://github.c
 History Log
 ------------------
 
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2017-04-30
 
     - initial commit
